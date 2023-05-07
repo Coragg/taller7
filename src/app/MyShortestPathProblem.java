@@ -3,6 +3,7 @@ package app;
 import java.util.List;
 
 public class MyShortestPathProblem implements ShortestPathProblem {
+    //hay que buscar que codigo poner
     public  boolean isSolution(){
         return true;
     }
